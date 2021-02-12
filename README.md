@@ -10,6 +10,6 @@ The cable has three ends, one that goes into the PC, one that goes to the g.tec 
 ## Setting Up the Audio File
 ![audacity](img/audacity_screenshot.png)
 
-You will have to modify the audio stimuli using a program like audacity. The auditory stimuli should be on the right channel, and the trigger (which is a constant frequency beep) should be on the left channel, as shown in the image above. This file in the form of a `.wav` and audacity project is included in this repository under the name `stimuli_train`.
+You will have to modify the audio stimuli using a program like audacity. The auditory stimuli should be on the right channel, and the trigger (which is a constant frequency beep) should be on the left channel, as shown in the image above. This audio file in its "non-split" form and split form are included in this repository under the name `stimuli_train_non-split.wav` and `stimuli_train_split.wav`, respectively.
 
-Now, when playing back the audio file through the splitter, the beep in the left channel will be routed to the gTRIGbox, and the audio stimuli on the right channel will be converted to stereo and presented through the headphones. 
+Now, when playing back the audio file through the splitter, the beep in the left channel will be routed to the gTRIGbox, and the audio stimuli on the right channel will be converted to stereo and presented through the headphones.
