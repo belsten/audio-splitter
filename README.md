@@ -5,7 +5,7 @@
 When performing electrophysiological experiments with auditory stimuli, you often want to know precisely when the auditory stimuli is presented to the subject. This is often done with a device such as the g.tec gTRIGbox. If the stimuli have different envelopes, the time it takes for the trigger to occur may vary. This cable removes this possibility and allows you to clearly define what point during your stimuli you want the gTRIGbox to trigger.  
 
 ## How to Connect the Hardware
-The cable has three ends, one that goes into the PC, one that goes to the g.tec gTRIGbox, and one that goes to headphones. The end that goes to headphones has another plug that converts mono to stereo.
+The male end of the 3.5mm audio cable goes into the PC. The black female 3.5mm audio cable connects to the gTRIGbox, and the red female 3.5mm cable goes to headphones. The red connector that goes to headphones has another plug that converts mono to stereo.
 
 ## Setting Up the Audio File
 ![audacity](img/audacity_screenshot.png)
