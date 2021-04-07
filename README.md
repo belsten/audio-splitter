@@ -2,7 +2,7 @@
 ![alt text](img/trigbox_and_splitter.png)
 
 ## Purpose
-When performing electrophysiological experiments with auditory stimuli, you often want to know when the auditory stimuli are presented to the subject. This is often done by duplicating the auditory stream to another device, such as the g.tec gTRIGbox, which detects the stimuli' onset. A problem is introduced if you have multiple different stimuli with differing envelopes as the time it takes for the trigger to occur may vary. This cable attempts to solve this problem by allowing you to clearly define what point during your stimuli you want the trigger to occur.  
+When performing electrophysiological experiments with auditory stimuli, you often want to know precisely when the auditory stimuli are presented to the subject. This is usually done by duplicating the auditory stream to another device, such as the g.tec gTRIGbox, which detects the stimuli' onset and feeds it as a TTL pulse to an amplifier's digital input. A problem is introduced if you have multiple different stimuli with differing envelopes as the time it takes for the trigger to occur may vary. This cable attempts to solve this problem by allowing you to clearly define what point during your stimuli you want the trigger to occur.  
 
 ## How to Connect the Hardware
 The male end of the 3.5mm audio cable goes into the PC. The black female 3.5mm audio cable connects to the gTRIGbox, and the red female 3.5mm cable goes to headphones. The red connector that goes to the headphones has another plug that converts mono to stereo.
