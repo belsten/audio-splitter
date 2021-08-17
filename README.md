@@ -5,7 +5,7 @@
 When performing electrophysiological experiments with auditory stimuli, you often want to know precisely when the auditory stimuli are presented to the subject. This is usually done by duplicating the auditory stream to another device, such as the g.tec gTRIGbox, which detects the stimuli' onset and feeds it as a TTL pulse to an amplifier's digital input. A problem is introduced if you have multiple different stimuli with differing envelopes as the time it takes for the trigger to occur may vary. This cable attempts to solve this problem by allowing you to clearly define what point during your stimuli you want the trigger to occur.  
 
 ## How to Connect the Hardware
-The male end of the 3.5mm audio cable goes into the PC. The black female 3.5mm audio cable connects to the gTRIGbox, and the red female 3.5mm cable goes to headphones. The red connector that goes to the headphones has another plug that converts mono to stereo.
+The hardware consists of a single 3.5mm audio Y-splitter and connector that converts mono input to stereo output. The male end of the 3.5mm splitter goes into the PC. The black female 3.5mm splitter cable connects to the gTRIGbox, and the red female 3.5mm cable goes to the mono-to-stereo converter and then to the headphones. 
 
 ## Setting Up the Audio File
 ![audacity](img/audacity_screenshot.png)
